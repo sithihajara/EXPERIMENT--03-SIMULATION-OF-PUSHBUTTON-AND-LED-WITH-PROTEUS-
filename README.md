@@ -76,9 +76,6 @@ Developed by:Sithi Hajara I
 Reg no:212221230102
 ```
 ```
-## DEVELOPED BY: NIVETHA M
-## REG.NO:212221240034
-
 #include "main.h"
 #include"stdio.h"
 #include"stdbool.h"
