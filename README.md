@@ -109,6 +109,7 @@ int main(void)
 ```
 ## Output screen shots of proteus  :
 ### LED OFF:
+![image](https://user-images.githubusercontent.com/94219582/234830408-11b63dbf-6cf7-4e55-bb34-87905cd6f359.png)
 
 
 ### LED ON:
